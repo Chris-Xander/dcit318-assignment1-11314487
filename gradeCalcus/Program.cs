@@ -1,10 +1,4 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        // User to enter a numerical grade
+﻿ //User to enter a numerical grade
         Console.Write("Enter your numerical grade (0-100): ");
         int grade = Convert.ToInt32(Console.ReadLine());
 
@@ -29,5 +23,3 @@ class Program
         {
             Console.WriteLine("F - thats crazy dawg! its aight, just try harder next time!");
         }
-    }
-}

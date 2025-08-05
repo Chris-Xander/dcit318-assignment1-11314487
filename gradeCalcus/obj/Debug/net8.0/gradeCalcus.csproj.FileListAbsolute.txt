@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\bin\Debug\net8.0\gradeCalcus.exe
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\bin\Debug\net8.0\gradeCalcus.deps.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\bin\Debug\net8.0\gradeCalcus.runtimeconfig.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\bin\Debug\net8.0\gradeCalcus.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\bin\Debug\net8.0\gradeCalcus.pdb
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.AssemblyInfo.cs
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.sourcelink.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\refint\gradeCalcus.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.pdb
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\gradeCalcus.genruntimeconfig.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\gradeCalcus\obj\Debug\net8.0\ref\gradeCalcus.dll

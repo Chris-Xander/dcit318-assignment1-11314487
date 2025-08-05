@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\bin\Debug\net8.0\Triangle.exe
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\bin\Debug\net8.0\Triangle.deps.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\bin\Debug\net8.0\Triangle.runtimeconfig.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\bin\Debug\net8.0\Triangle.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\bin\Debug\net8.0\Triangle.pdb
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfo.cs
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.sourcelink.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\refint\Triangle.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.pdb
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\Triangle.genruntimeconfig.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\Triangle\obj\Debug\net8.0\ref\Triangle.dll

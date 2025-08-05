@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.AssemblyInfo.cs
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.sourcelink.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\bin\Debug\net8.0\TicketManager.exe
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\bin\Debug\net8.0\TicketManager.deps.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\bin\Debug\net8.0\TicketManager.runtimeconfig.json
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\bin\Debug\net8.0\TicketManager.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\bin\Debug\net8.0\TicketManager.pdb
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\refint\TicketManager.dll
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.pdb
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\TicketManager.genruntimeconfig.cache
+C:\Users\chris\Desktop\dcit318-assignment1-11314487\TicketManager\obj\Debug\net8.0\ref\TicketManager.dll
